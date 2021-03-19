@@ -1,1 +1,2 @@
-# MAngo-Juice
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
